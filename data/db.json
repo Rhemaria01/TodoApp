@@ -1,0 +1,63 @@
+{
+  "todo": [
+    {
+      "title": "Build Code logic for Delete Button",
+      "progress": "Todo",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "title": "Push on Git",
+      "progress": "Todo"
+    },
+    {
+      "id": 5,
+      "title": "Netlify.toml",
+      "progress": "Todo"
+    },
+    {
+      "title": "Deploy on netlify",
+      "progress": "Todo",
+      "id": 6
+    }
+  ],
+  "inProgress": [
+    {
+      "title": "Make a react todo app for internship",
+      "progress": "In Progress",
+      "id": 1
+    },
+    {
+      "title": "Do some design changes",
+      "progress": "In Progress",
+      "id": 3
+    },
+    {
+      "title": "Take Screenshots",
+      "progress": "In Progress",
+      "id": 4
+    }
+  ],
+  "completed": [
+    {
+      "title": "Make Custom hook to fetch data",
+      "progress": "Completed",
+      "id": 1
+    },
+    {
+      "title": "Fix some Bugs",
+      "progress": "Completed",
+      "id": 2
+    },
+    {
+      "title": "onKeyPress Handle Function",
+      "progress": "Completed",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "AddTodo function",
+      "progress": "Completed"
+    }
+  ]
+}
