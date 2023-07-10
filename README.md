@@ -16,6 +16,7 @@ b) When task status is changed to "In Progress" it is moved to the In Progress S
 ![image](https://github.com/Rhemaria01/TodoApp/assets/88653368/18da0bf4-1167-4712-83ff-c6df25775874)
 
 c) Finally status changed to "Completed"
+
 ![image](https://github.com/Rhemaria01/TodoApp/assets/88653368/0e473369-7157-47f7-b73a-b0b1c5670ec7)
 
 #4 If no longer needed tasks can be deleted
