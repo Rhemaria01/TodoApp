@@ -20,5 +20,6 @@ c) Finally status changed to "Completed"
 ![image](https://github.com/Rhemaria01/TodoApp/assets/88653368/0e473369-7157-47f7-b73a-b0b1c5670ec7)
 
 #4 If no longer needed tasks can be deleted
+
 ![image](https://github.com/Rhemaria01/TodoApp/assets/88653368/7df5a916-e70e-4fd3-9c93-2f8e7fd8430b)
 
